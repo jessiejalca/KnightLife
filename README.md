@@ -1,50 +1,35 @@
-# Welcome to your Expo app 👋
+# KnightLife
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A React Native mobile app for UCF students to discover and track campus events.
 
-## Get started
+Built with a 5-person team using feature branches, pull requests, and code reviews.
 
-1. Install dependencies
+## Tech Stack
 
-   ```bash
-   npm install
-   ```
+- **React Native** with Expo
+- **TypeScript**
+- **Supabase** — backend, authentication, and real-time data
 
-2. Start the app
+## Features
 
-   ```bash
-    npx expo start
-   ```
+- Browse and search upcoming UCF campus events
+- Real-time event data synchronization
+- Event creation, tracking, and saving to a personal list of events
+- User authentication via Supabase
 
-In the output, you'll find options to open the app in a
+## My Contributions
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- Built core UI components in React Native for event listing, and filtering between created upcoming and past events
+- Designed the database schema for event creation, tracking, and real-time updates
+- Coordinated the team's Git workflow using feature branches, PRs, and code reviews
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+## Getting Started
 
 ```bash
-npm run reset-project
+npm install
+npx expo start
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## Team
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Developed by a 5-person team at the University of Central Florida.
