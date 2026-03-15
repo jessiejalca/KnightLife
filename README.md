@@ -4,6 +4,10 @@ A React Native mobile app for UCF students to discover and track campus events.
 
 Built with a 5-person team using feature branches, pull requests, and code reviews.
 
+## Demo
+
+[![KnightLife walkthrough](https://img.youtube.com/vi/W35wHtXESf4/hqdefault.jpg)](https://www.youtube.com/watch?v=W35wHtXESf4)
+
 ## Tech Stack
 
 - **React Native** with Expo
