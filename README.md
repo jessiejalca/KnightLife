@@ -34,6 +34,8 @@ npm install
 npx expo start
 ```
 
+Note: Running locally requires Supabase environment variables.
+
 ## Team
 
 Developed by a 5-person team at the University of Central Florida.
