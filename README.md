@@ -6,7 +6,7 @@ Built with a 5-person team using feature branches, pull requests, and code revie
 
 ## Demo
 
-[![KnightLife walkthrough](https://img.youtube.com/vi/W35wHtXESf4/hqdefault.jpg)](https://www.youtube.com/watch?v=W35wHtXESf4)
+[![KnightLife walkthrough](https://raw.githubusercontent.com/jessiejalca/portfolio/refs/heads/main/public/ss-knightlife.png)](https://www.youtube.com/watch?v=W35wHtXESf4)
 
 ## Tech Stack
 
